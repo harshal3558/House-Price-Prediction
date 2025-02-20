@@ -20,7 +20,6 @@ list_of_files=[
     f"exception.py",
     f"logger.py",
     f"utils.py",
-    "main.py",
     "app.py",
     "Dockerfile",
     "requirements.txt",
